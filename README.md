@@ -2,7 +2,7 @@
 [Shimmer](https://code.facebook.com/posts/636856646421011/shimmer-for-android/) is an attractive library used to add shimmer effect to any layout you designed, just like the one used by facebook or linkedin.
 
 <p align="center">
-<img src="/images/splash_screen.gif?raw=true" width="300" /><img src="/images/lazy_load.gif?raw=true" width="300" />
+<img src="/images/splash_screen.gif?raw=true" width="300" style="margin: 10px"/><img src="/images/lazy_load.gif?raw=true" width="300" style="margin: 10px" />
 </p>
 
 
